@@ -1,6 +1,8 @@
 html {
   height: 100%;
   width: 100%;
+  font-family: arial, helvetica, sans-serif;
+  background:pink;
 }
 
 .bd-placeholder-img {
@@ -20,4 +22,18 @@ html {
 #blogtitle, #blogcomments {
   padding-top:1em;
   color:firebrick;
+}
+
+.heading {
+	font-family: georgia, serif;
+	font-weight: bold;
+}
+
+body {
+	background: white;
+	padding: 100px;
+	margin: auto;
+	border: 1px solid #000000;
+	text-align: justify;
+	width: 895px;
 }
