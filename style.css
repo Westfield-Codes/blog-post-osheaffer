@@ -33,7 +33,16 @@ body {
 	background: white;
 	padding: 100px;
 	margin: auto;
-	border: 1px solid #000000;
 	text-align: justify;
 	width: 895px;
+}
+
+img {
+	width=200px;
+}
+
+.caption {
+	font-size:13px;
+	font-style:italic;
+	color:grey;
 }
