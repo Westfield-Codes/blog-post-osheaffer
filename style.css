@@ -37,12 +37,14 @@ body {
 	width: 895px;
 }
 
-img {
-	width=200px;
-}
-
 .caption {
 	font-size:13px;
 	font-style:italic;
 	color:grey;
+	text-align:center;
+}
+
+img {
+	display:block;
+	margin:auto;
 }
